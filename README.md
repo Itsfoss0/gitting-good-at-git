@@ -6,3 +6,5 @@
 4. Resetting checking out and reverting
 5. Advanced git logs
 6. Refs and reflogs
+7. Stashing
+8. Squashing
